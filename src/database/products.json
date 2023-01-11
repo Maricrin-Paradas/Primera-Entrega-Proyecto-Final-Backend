@@ -1,0 +1,48 @@
+[
+    {
+      "name": "Revesderecho Linea Premium Wool",
+      "price": 4.990,
+      "description": "Equilibrio perfecto entre nobleza y calidez. No te arrepentirás!  100% Lana ahora es Wool, si decides comprarlo ahora, lo recibirás como Wool.  Al finalizar tu proyecto, te sugerimos bloquearlo para que la prenda quede pareja y se luzca mejor.  Lavado: a mano sin estrujar, agua fría y secado idealmente sobre una toalla en forma horizontal.",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_745605-MLC46449179306_062021-F.webp",
+      "sctok": 20,
+      "timestamp": "01/01/2023 13:00:00",
+      "id": 1
+    },
+    {
+      "title": "Revesderecho Linea Premium Wool ",
+      "price": 4.990,
+      "description": "Equilibrio perfecto entre nobleza y calidez. No te arrepentirás!  100% Lana ahora es Wool, si decides comprarlo ahora, lo recibirás como Wool.  Al finalizar tu proyecto, te sugerimos bloquearlo para que la prenda quede pareja y se luzca mejor.  Lavado: a mano sin estrujar, agua fría y secado idealmente sobre una toalla en forma horizontal.",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_717423-MLC46449152499_062021-F.webp",
+      "sctok": 20,
+      "timestamp": "01/01/2023 13:00:00",
+      "id": 2
+    },
+    {
+      "title": "Revesderecho Linea Kids Soft",
+      "price": 2.990,
+      "description": "Aprovecha la suavidad y colores para entregársela a tus niños!",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_846061-MLC46943848962_082021-F.webp",
+      "sctok": 20,
+      "timestamp": "01/01/2023 13:00:00",
+      "id": 3
+    },
+    {
+      "title": "Kit Marcadores",
+      "price": 3.990,
+      "description": "Lo que necesitas, para relizar tus creaciones",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTEnRBR3DtDGJozjPZuq0TdzD06sh-4sqJeefHystaTQED2aKEnfAG9eoN_5lC4odxcByKapG9_y8_587ucNIdy9TvLh-qn&usqp=CAY",
+      "sctok": 20,
+      "timestamp": "01/01/2023 13:00:00",
+      "id": 4
+    },
+    {
+       "title": "Revesderecho Linea Kids Soft",
+        "price": 2.990,
+        "description": "Aprovecha la suavidad y colores para entregársela a tus niños!",
+        "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_795531-MLC46943883346_082021-F.webp",
+        "sctok": 20,
+        "timestamp": "01/01/2023 13:00:00",
+        "id": 5
+      }
+
+  ]
