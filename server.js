@@ -16,6 +16,10 @@ app.use("/*", notFoundRoute);
 app.set("view engine", "ejs");
 app.set("views", "./src/views");
 
+app.get("/", (req, res) => {
+    res.render("./pages/home.ejs");
+  });
+
 app.listen(process.env.PORT || PORT, () => {
     console.log(`Server running on port ${PORT}`);
 });
